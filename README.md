@@ -1,3 +1,14 @@
+
+### サーバー
+```
+ng serve
+```
+ポートを指定する場合
+```
+ng serve --port 3000
+```
+- ***http://localhost:4200/***
+ 
 # AngularCalendarApp
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.1.
